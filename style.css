@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  #contenedor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  #entradaTarea {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    width: 300px;
+  }
+  
+  #agregar-tarea-btn {
+    padding: 10px;
+    margin-left: 10px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #lista-tareas {
+    list-style-type: none;
+    margin-top: 20px;
+    padding: 0;
+  }
+  
+  .tarea-item {
+    display: flex;
+    align-items: center;
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .tarea-item input[type="checkbox"] {
+    margin-right: 10px;
+  }
+  
+  .tarea-item span {
+    flex-grow: 1;
+  }
+  
+  .tarea-item button {
+    background-color: #f44336;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
