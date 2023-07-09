@@ -2,6 +2,10 @@
 
 Este repositorio contiene una aplicación simple de lista de tareas implementada en JavaScript. Puedes agregar tareas y eliminarlas fácilmente.
 
+## Link al curso completo de Javascript en Youtube:
+[VIDEO CURSO GRATIS COMPLETO: JavaScript Desde Cero por Sergie Code](https://youtu.be/N8Xt5rP_DUo)
+
+
 ## Uso
 
 1. Clona este repositorio en tu máquina local.
